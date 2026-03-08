@@ -34,7 +34,7 @@ My day-to-day work lives at the intersection of **Linux**, **containers**, **net
 - Sophos XG/XGS firewalls (SFOS 17.x–20.x) — admin + SNMP monitoring
 - Zyxel USG Flex + XGS switches — dual WAN, failover, VLANs
 - UniFi Wi-Fi (including legacy firmware)
-- LoRaWAN — The ChirpStack, Dragino gateways, TrackerD IoT devices
+- LoRaWAN — ChirpStack, Dragino gateways, Khomp and TrackerD IoT devices
 
 **Cloud**
 - Oracle Cloud (OCI) — Always Free Tier (ARM/AMD VMs), OCI Monitoring API, OCI Usage Reports API
