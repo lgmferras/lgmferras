@@ -19,7 +19,7 @@ My day-to-day work lives at the intersection of **Linux**, **containers**, **net
 ## What I Work With
 
 **Observability**
-- Zabbix 7.4 — custom template development, LLD, SNMP, UserParameters, API integrations
+- Zabbix — custom template development, LLD, SNMP, UserParameters, API integrations
 - Alert delivery via Telegram and WhatsApp
 - Multi-client monitoring in MSP environments
 
@@ -96,18 +96,19 @@ Result: eliminated the cost of a dedicated server with static IP (~R$200–500/m
 
 ### Containerized Infrastructure Platform
 
-Docker Compose orchestration with 30+ containers running in production on a Dell PowerEdge server (Xeon E3-1220v5, 8GB RAM, 455GB SSD).
+Docker Compose orchestration with 30+ containers running in production on a Dell PowerEdge Server.
 
 Services: Zabbix (server, proxy, web, database), Nextcloud + OnlyOffice Document Server, NetBox (IPAM/DCIM), GLPI (helpdesk), Nginx (reverse proxy with PROXY Protocol), backup and automation services.
 
 ---
 
-### LoRaWAN Infrastructure for Vessel Tracking
+### LoRaWAN Infrastructure for Climate and Tracking
 
 Low-power IoT infrastructure deployment for remote asset tracking.
 
-- The Things Stack as the LoRaWAN network server
+- ChirpStack as the LoRaWAN network server
 - Dragino LoRaWAN gateways
+- Khomp IoT devices
 - TrackerD IoT devices
 - Custom Zabbix template for gateway monitoring (57 items: RSSI, SNR, frequency, beacon, uptime)
 
@@ -115,8 +116,11 @@ Low-power IoT infrastructure deployment for remote asset tracking.
 
 ## Certifications
 
+- Object Oriented Programming
+- Data Center - Lightera
+- Smart Cities and ITS: Solution Planning - Lightera
 - Microsoft Security, Compliance and Identity Fundamentals (SC-900)
-- Zyxel Certified Network Associate
+- Zyxel Certified Network Associate (WLAN/Switch/Security/Nebula)
 - Zyxel Certified Sales Associate
 - Zabbix Base Training
 
