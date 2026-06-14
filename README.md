@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=9B4BEA&center=true&vCenter=true&width=650&lines=Especialista+em+Infraestrutura+%26+MSP%3BInfrastructure+%26+MSP+Specialist%3BDocker+%C2%B7+Linux+%C2%B7+Zabbix+%C2%B7+LoRaWAN%3B20%2B+anos+em+TI+Empresarial" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1000&color=9B4BEA&center=true&vCenter=true&width=850&lines=Especialista+em+Infraestrutura+%26+MSP%3BInfrastructure+%26+MSP+Specialist%3BDocker+%C2%B7+Linux+%C2%B7+Zabbix+%C2%B7+LoRaWAN%3B20%2B+anos+em+TI+Empresarial" alt="Typing SVG" />
 
 ## Luis Gustavo Ferras
 
