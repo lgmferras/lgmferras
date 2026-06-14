@@ -22,7 +22,7 @@
 
 ### Sobre
 
-Sou fundador e especialista de infraestrutura da **[Systrix Tecnologia](https://systrix.com.br/)**, uma MSP (Managed Services Provider) baseada em São José dos Campos, SP. Projeto, implanto e opero ambientes de TI empresariais com foco em confiabilidade, observabilidade e segurança.
+Sou especialista de infraestrutura da **[Systrix Tecnologia](https://systrix.com.br/)**, uma MSP (Managed Services Provider) baseada em São José dos Campos, SP. Projeto, implanto e opero ambientes de TI empresariais com foco em confiabilidade, observabilidade e segurança.
 
 Minha rotina envolve **Linux**, **containers Docker**, **arquitetura de redes** e **observabilidade profunda** — construo e mantenho os sistemas que mantêm outros sistemas funcionando. Atualmente opero mais de **30 containers em produção** servindo múltiplos clientes.
 
@@ -138,7 +138,7 @@ Deploy IoT para rastreamento e monitoramento de clima: ChirpStack como network s
 
 ### Onde Atuo
 
-Fundador e especialista de infraestrutura na **[Systrix Tecnologia](https://systrix.com.br/)** — MSP baseada em São José dos Campos, SP, Brasil.
+Especialista de infraestrutura na **[Systrix Tecnologia](https://systrix.com.br/)** — MSP baseada em São José dos Campos, SP, Brasil.
 Veja nossos projetos em [@systrix-tecnologia](https://github.com/systrix-tecnologia).
 
 ### Certificações
@@ -165,7 +165,7 @@ Veja nossos projetos em [@systrix-tecnologia](https://github.com/systrix-tecnolo
 
 ### About
 
-I'm an infrastructure specialist and founder of **[Systrix Tecnologia](https://systrix.com.br/)**, a Managed Services Provider (MSP) based in São José dos Campos, SP, Brazil. I design, deploy, and operate enterprise IT environments with a focus on reliability, observability, and security.
+I'm an infrastructure specialist of **[Systrix Tecnologia](https://systrix.com.br/)**, a Managed Services Provider (MSP) based in São José dos Campos, SP, Brazil. I design, deploy, and operate enterprise IT environments with a focus on reliability, observability, and security.
 
 My day-to-day work lives at the intersection of **Linux**, **Docker containers**, **network architecture**, and **deep observability** — I build and maintain the systems that keep other systems running. Currently operating **30+ containers in production** across multiple clients.
 
@@ -281,7 +281,7 @@ IoT deployment for asset tracking and climate monitoring: ChirpStack as network 
 
 ### Where I Work
 
-Founder and infrastructure specialist at **[Systrix Tecnologia](https://systrix.com.br/)** — an MSP based in São José dos Campos, SP, Brazil.
+Infrastructure specialist at **[Systrix Tecnologia](https://systrix.com.br/)** — an MSP based in São José dos Campos, SP, Brazil.
 See our projects at [@systrix-tecnologia](https://github.com/systrix-tecnologia).
 
 ### Certifications
