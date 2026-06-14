@@ -36,17 +36,17 @@ Com mais de 20 anos de carreira — iniciada como operador de computador e evolu
 🖥️ **Infraestrutura & Containers**
 
 Linux · Docker · Caddy · Nginx
-Vaultwarden · GLPI · Nextcloud
-Oracle Cloud (OCI) · Let's Encrypt
+· Vaultwarden · GLPI · Nextcloud
+· Oracle Cloud (OCI) · Let's Encrypt
 
 </td>
 <td align="center" width="33%">
 
 📊 **Observabilidade**
 
-Zabbix 7.4 · Grafana
-Templates customizados · LLD
-SNMP · UserParameters · API
+Zabbix 7.4 · Grafana · 
+Templates customizados · LLD 
+· SNMP · UserParameters · API
 
 </td>
 <td align="center" width="33%">
@@ -54,7 +54,7 @@ SNMP · UserParameters · API
 🌐 **Redes & IoT**
 
 WireGuard · Sophos · UniFi
-LoRaWAN · ChirpStack
+ · LoRaWAN · ChirpStack · 
 ESP32 · Dragino · CGNAT Bypass
 
 </td>
