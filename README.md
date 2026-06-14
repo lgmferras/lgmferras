@@ -90,7 +90,7 @@ Internet → Oracle VPS (Public IP) → WireGuard tunnel → Local Server (behin
 - Full Nginx HTTP/HTTPS on the local server — SSL termination via Let's Encrypt, reverse proxy for all services
 - iptables DNAT for non-HTTP ports (Zabbix, LoRaWAN, AMQP)
 
-Result: eliminated the cost of a dedicated server with static IP (~R$200–500/month) with a 100% free solution.
+Result: eliminated the cost of a dedicated server with static IP (~US$40–100/month) with a 100% free solution.
 
 ---
 
