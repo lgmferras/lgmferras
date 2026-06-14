@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Especialista+em+Infraestrutura+%26+MSP;Infrastructure+%26+MSP+Specialist;Docker+·+Linux+·+Zabbix+·+LoRaWAN;20%2B+anos+em+TI+Empresarial" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Especialista+em+Infraestrutura+%26+MSP%3BInfrastructure+%26+MSP+Specialist%3BDocker+%C2%B7+Linux+%C2%B7+Zabbix+%C2%B7+LoRaWAN%3B20%2B+anos+em+TI+Empresarial" alt="Typing SVG" />
 
 ## Luis Gustavo Ferras
 
@@ -22,9 +22,9 @@
 
 ### Sobre
 
-Sou especialista de infraestrutura da **[Systrix Tecnologia](https://systrix.com.br/)**, uma MSP (Managed Services Provider) baseada em São José dos Campos, SP. Projeto, implanto e opero ambientes de TI empresariais com foco em confiabilidade, observabilidade e segurança.
+Sou especialista de infraestrutura da **[Systrix Tecnologia](https://systrix.com.br/)**, MSP baseada em São José dos Campos, SP, onde atuo com monitoramento centralizado, redes corporativas, backup e automação para múltiplos clientes.
 
-Minha rotina envolve **Linux**, **containers Docker**, **arquitetura de redes** e **observabilidade profunda** — construo e mantenho os sistemas que mantêm outros sistemas funcionando. Atualmente opero mais de **30 containers em produção** servindo múltiplos clientes.
+Com mais de 20 anos de carreira — iniciada como operador de computador e evoluída até gerência de TI, com passagens por ambientes hospitalares e aeroespacial — meu foco é entregar confiabilidade, visibilidade e automação para ambientes que não podem parar. Atualmente opero mais de **30 containers em produção**.
 
 ### O que Ofereço
 
@@ -165,9 +165,9 @@ Veja nossos projetos em [@systrix-tecnologia](https://github.com/systrix-tecnolo
 
 ### About
 
-I'm an infrastructure specialist of **[Systrix Tecnologia](https://systrix.com.br/)**, a Managed Services Provider (MSP) based in São José dos Campos, SP, Brazil. I design, deploy, and operate enterprise IT environments with a focus on reliability, observability, and security.
+I'm an infrastructure specialist at **[Systrix Tecnologia](https://systrix.com.br/)**, an MSP based in São José dos Campos, SP, Brazil, providing centralized monitoring, corporate networking, backup, and automation for multiple clients.
 
-My day-to-day work lives at the intersection of **Linux**, **Docker containers**, **network architecture**, and **deep observability** — I build and maintain the systems that keep other systems running. Currently operating **30+ containers in production** across multiple clients.
+With 20+ years of career growth — from computer operator to IT Manager, with experience in hospital and aerospace environments — my focus is delivering reliability, visibility, and automation for systems that can't go down. Currently operating **30+ containers in production** across multiple clients.
 
 ### What I Offer
 
