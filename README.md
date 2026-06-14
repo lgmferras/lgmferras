@@ -1,12 +1,15 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7f13ec,9b4bea&height=100&section=header" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Especialista+em+Infraestrutura+%26+MSP%3BInfrastructure+%26+MSP+Specialist%3BDocker+%C2%B7+Linux+%C2%B7+Zabbix+%C2%B7+LoRaWAN%3B20%2B+anos+em+TI+Empresarial" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=9B4BEA&center=true&vCenter=true&width=650&lines=Especialista+em+Infraestrutura+%26+MSP%3BInfrastructure+%26+MSP+Specialist%3BDocker+%C2%B7+Linux+%C2%B7+Zabbix+%C2%B7+LoRaWAN%3B20%2B+anos+em+TI+Empresarial" alt="Typing SVG" />
 
 ## Luis Gustavo Ferras
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lgmferras)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lgmferras@gmail.com)
-[![Systrix](https://img.shields.io/badge/Systrix_Tecnologia-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://systrix.com.br/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lgmferras@gmail.com)
+[![Systrix Mail](https://img.shields.io/badge/Systrix_Mail-7F13EC?style=flat-square&logo=gmail&logoColor=white)](mailto:gustavo.ferras@systrix.com.br)
+[![Systrix](https://img.shields.io/badge/Systrix_Tecnologia-7F13EC?style=flat-square&logo=googlechrome&logoColor=white)](https://systrix.com.br/)
 
 [🇧🇷 Português](#pt) · [🇺🇸 English](#en)
 
@@ -152,8 +155,9 @@ Veja nossos projetos em [@systrix-tecnologia](https://github.com/systrix-tecnolo
 ### Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lgmferras-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lgmferras)
-[![Email](https://img.shields.io/badge/Email-lgmferras%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lgmferras@gmail.com)
-[![Systrix](https://img.shields.io/badge/🌐-systrix.com.br-0A66C2?style=flat-square)](https://systrix.com.br/)
+[![Gmail](https://img.shields.io/badge/Gmail-lgmferras%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lgmferras@gmail.com)
+[![Systrix Mail](https://img.shields.io/badge/Systrix-gustavo.ferras%40systrix.com.br-7F13EC?style=flat-square&logo=gmail&logoColor=white)](mailto:gustavo.ferras@systrix.com.br)
+[![Systrix](https://img.shields.io/badge/🌐-systrix.com.br-7F13EC?style=flat-square)](https://systrix.com.br/)
 
 ---
 
@@ -295,14 +299,17 @@ See our projects at [@systrix-tecnologia](https://github.com/systrix-tecnologia)
 ### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lgmferras-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lgmferras)
-[![Email](https://img.shields.io/badge/Email-lgmferras%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lgmferras@gmail.com)
-[![Systrix](https://img.shields.io/badge/🌐-systrix.com.br-0A66C2?style=flat-square)](https://systrix.com.br/)
+[![Gmail](https://img.shields.io/badge/Gmail-lgmferras%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lgmferras@gmail.com)
+[![Systrix Mail](https://img.shields.io/badge/Systrix-gustavo.ferras%40systrix.com.br-7F13EC?style=flat-square&logo=gmail&logoColor=white)](mailto:gustavo.ferras@systrix.com.br)
+[![Systrix](https://img.shields.io/badge/🌐-systrix.com.br-7F13EC?style=flat-square)](https://systrix.com.br/)
 
 ---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lgmferras&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lgmferras&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lgmferras&show_icons=true&theme=midnight_purple&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lgmferras&layout=compact&theme=midnight_purple&hide_border=true)
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7f13ec,9b4bea&height=80&section=footer" />
