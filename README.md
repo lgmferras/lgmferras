@@ -308,6 +308,6 @@ See our projects at [@systrix-tecnologia](https://github.com/systrix-tecnologia)
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lgmferras&theme=dark&hide_border=true&ring=7F13EC&fire=9B4BEA&currStreakLabel=9B4BEA)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lgmferras&theme=default&hide_border=true&ring=7F13EC&fire=9B4BEA&currStreakLabel=9B4BEA)](https://git.io/streak-stats)
 
 </div>
