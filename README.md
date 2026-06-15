@@ -155,7 +155,6 @@ Veja nossos projetos em [@systrix-tecnologia](https://github.com/systrix-tecnolo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lgmferras-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lgmferras)
 [![Gmail](https://img.shields.io/badge/Gmail-lgmferras%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lgmferras@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%40gustavoferras_-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/gustavoferras_)
 [![Systrix Mail](https://img.shields.io/badge/Systrix-gustavo.ferras%40systrix.com.br-7F13EC?style=flat-square&logo=gmail&logoColor=white)](mailto:gustavo.ferras@systrix.com.br)
 [![Systrix](https://img.shields.io/badge/🌐-systrix.com.br-7F13EC?style=flat-square)](https://systrix.com.br/)
 
@@ -300,7 +299,6 @@ See our projects at [@systrix-tecnologia](https://github.com/systrix-tecnologia)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lgmferras-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lgmferras)
 [![Gmail](https://img.shields.io/badge/Gmail-lgmferras%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lgmferras@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%40gustavoferras_-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/gustavoferras_)
 [![Systrix Mail](https://img.shields.io/badge/Systrix-gustavo.ferras%40systrix.com.br-7F13EC?style=flat-square&logo=gmail&logoColor=white)](mailto:gustavo.ferras@systrix.com.br)
 [![Systrix](https://img.shields.io/badge/🌐-systrix.com.br-7F13EC?style=flat-square)](https://systrix.com.br/)
 
@@ -463,7 +461,6 @@ Veja nossos projetos em [@systrix-tecnologia](https://github.com/systrix-tecnolo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lgmferras-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lgmferras)
 [![Gmail](https://img.shields.io/badge/Gmail-lgmferras%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lgmferras@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%40gustavoferras_-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/gustavoferras_)
 [![Systrix Mail](https://img.shields.io/badge/Systrix-gustavo.ferras%40systrix.com.br-7F13EC?style=flat-square&logo=gmail&logoColor=white)](mailto:gustavo.ferras@systrix.com.br)
 [![Systrix](https://img.shields.io/badge/🌐-systrix.com.br-7F13EC?style=flat-square)](https://systrix.com.br/)
 
@@ -608,7 +605,6 @@ See our projects at [@systrix-tecnologia](https://github.com/systrix-tecnologia)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lgmferras-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lgmferras)
 [![Gmail](https://img.shields.io/badge/Gmail-lgmferras%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lgmferras@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%40gustavoferras_-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/gustavoferras_)
 [![Systrix Mail](https://img.shields.io/badge/Systrix-gustavo.ferras%40systrix.com.br-7F13EC?style=flat-square&logo=gmail&logoColor=white)](mailto:gustavo.ferras@systrix.com.br)
 [![Systrix](https://img.shields.io/badge/🌐-systrix.com.br-7F13EC?style=flat-square)](https://systrix.com.br/)
 
@@ -740,7 +736,6 @@ Vea nuestros proyectos en [@systrix-tecnologia](https://github.com/systrix-tecno
 ### Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lgmferras-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lgmferras)
 [![Gmail](https://img.shields.io/badge/Gmail-lgmferras%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lgmferras@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%40gustavoferras_-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/gustavoferras_)
 [![Systrix Mail](https://img.shields.io/badge/Systrix-gustavo.ferras%40systrix.com.br-7F13EC?style=flat-square&logo=gmail&logoColor=white)](mailto:gustavo.ferras@systrix.com.br)
 [![Systrix](https://img.shields.io/badge/🌐-systrix.com.br-7F13EC?style=flat-square)](https://systrix.com.br/)
 
