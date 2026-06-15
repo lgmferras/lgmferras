@@ -329,7 +329,7 @@ Oracle Cloud (OCI) · Let's Encrypt
 
 📊 **Observabilidad**
 Zabbix 7.4 · Grafana
-Plantillas personalizadas · LLD
+Templates personalizados · LLD
 SNMP · UserParameters · API
 
 </td>
