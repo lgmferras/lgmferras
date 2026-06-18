@@ -99,16 +99,16 @@ ESP32 · Dragino · CGNAT Bypass
 <tr>
 <td width="50%">
 
-**📊 Biblioteca de Templates Zabbix 7.4**
+**[📊 Biblioteca de Templates Zabbix 7.4](https://github.com/lgmferras/zabbix-templates)**
 
-13 templates enterprise customizados: Sophos Firewall, Oracle Cloud (custo + egresso), WireGuard, MSPClouds Backup, Dragino IoT, ATHOS PDV, NETHOTEL, UniFi AP Legacy e mais.
+15 templates enterprise customizados para ambientes MSP: Oracle Cloud (custo + egresso), WireGuard, MSPClouds Backup, Dragino IoT, ATHOS PDV, NETHOTEL, UniFi AP Legacy e mais.
 
 `Zabbix` `SNMP` `LLD` `REST API`
 
 </td>
 <td width="50%">
 
-**🔀 CGNAT Bypass com Oracle Cloud**
+**[🔀 CGNAT Bypass com Oracle Cloud](https://github.com/lgmferras/cgnat-bypass-wireguard)**
 
 Solução zero custo para expor serviços atrás de CGNAT: Oracle Cloud ARM VM → túnel WireGuard → Nginx com PROXY Protocol. Elimina ~US$40–100/mês de IP fixo dedicado.
 
@@ -243,16 +243,16 @@ ESP32 · Dragino · CGNAT Bypass
 <tr>
 <td width="50%">
 
-**📊 Zabbix 7.4 Custom Template Library**
+**[📊 Zabbix 7.4 Custom Template Library](https://github.com/lgmferras/zabbix-templates)**
 
-13 enterprise custom templates: Sophos Firewall, Oracle Cloud (cost + egress), WireGuard, MSPClouds Backup, Dragino IoT, ATHOS PDV, NETHOTEL, UniFi AP Legacy and more.
+15 enterprise custom templates for MSP environments: Oracle Cloud (cost + egress), WireGuard, MSPClouds Backup, Dragino IoT, ATHOS PDV, NETHOTEL, UniFi AP Legacy and more.
 
 `Zabbix` `SNMP` `LLD` `REST API`
 
 </td>
 <td width="50%">
 
-**🔀 CGNAT Bypass with Oracle Cloud**
+**[🔀 CGNAT Bypass with Oracle Cloud](https://github.com/lgmferras/cgnat-bypass-wireguard)**
 
 Zero-cost solution to expose services behind CGNAT: Oracle Cloud ARM VM → WireGuard tunnel → Nginx with PROXY Protocol. Eliminates ~US$40–100/month for a dedicated static IP.
 
@@ -381,15 +381,15 @@ ESP32 · Dragino · CGNAT Bypass
 <tr>
 <td width="50%">
 
-**📊 Biblioteca de Plantillas Zabbix 7.4**
-13 plantillas enterprise personalizadas: Sophos Firewall, Oracle Cloud (costo + egreso), WireGuard, MSPClouds Backup, Dragino IoT, ATHOS PDV, NETHOTEL, UniFi AP Legacy y más.
+**[📊 Biblioteca de Plantillas Zabbix 7.4](https://github.com/lgmferras/zabbix-templates)**
+15 plantillas enterprise personalizadas para entornos MSP: Oracle Cloud (costo + egreso), WireGuard, MSPClouds Backup, Dragino IoT, ATHOS PDV, NETHOTEL, UniFi AP Legacy y más.
 
 `Zabbix` `SNMP` `LLD` `REST API`
 
 </td>
 <td width="50%">
 
-**🔀 CGNAT Bypass con Oracle Cloud**
+**[🔀 CGNAT Bypass con Oracle Cloud](https://github.com/lgmferras/cgnat-bypass-wireguard)**
 Solución de costo cero para exponer servicios detrás de CGNAT: Oracle Cloud ARM VM → túnel WireGuard → Nginx con PROXY Protocol. Elimina ~US$40–100/mes por IP estática dedicada.
 
 `Oracle Cloud` `WireGuard` `Nginx`
