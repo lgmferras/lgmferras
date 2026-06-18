@@ -382,7 +382,7 @@ ESP32 · Dragino · CGNAT Bypass
 <td width="50%">
 
 **[📊 Biblioteca de Plantillas Zabbix 7.4](https://github.com/lgmferras/zabbix-templates)**
-15 plantillas enterprise personalizadas para entornos MSP: Oracle Cloud (costo + egreso), WireGuard, MSPClouds Backup, Dragino IoT, ATHOS PDV, NETHOTEL, UniFi AP Legacy y más.
+15 enterprise templates personalizados para entornos MSP: Oracle Cloud (costo + egreso), WireGuard, MSPClouds Backup, Dragino IoT, ATHOS PDV, NETHOTEL, UniFi AP Legacy y más.
 
 `Zabbix` `SNMP` `LLD` `REST API`
 
