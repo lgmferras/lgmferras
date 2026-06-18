@@ -454,9 +454,9 @@ Solución de costo cero para exponer servicios detrás de CGNAT: Oracle Cloud AR
 </td>
 <td width="50%">
 
-**[📊 Biblioteca de Plantillas Zabbix 7.4](https://github.com/lgmferras/zabbix-templates)**
+**[📊 Biblioteca de Templates Zabbix 7.4](https://github.com/lgmferras/zabbix-templates)**
 
-17 plantillas enterprise para entornos MSP: Oracle Cloud (costo + egreso), WireGuard, Sophos Firewall, MSPClouds Backup, Dragino IoT, ATHOS PDV, NETHOTEL y más — con UserParameters incluidos.
+17 enterprise templates para entornos MSP: Oracle Cloud (costo + egreso), WireGuard, Sophos Firewall, MSPClouds Backup, Dragino IoT, ATHOS PDV, NETHOTEL y más — con UserParameters incluidos.
 
 `Zabbix` `SNMP` `LLD` `REST API`
 
